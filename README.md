@@ -1,9 +1,6 @@
 # appium-android-healthCareApp-project
-Mobile App Automation on Android emulator using: Java + Appium +Inspector + BDD (Cucumber) + JUnit + Android Studio
 
-# Appium + Cucumber Test Automation Framework
-
-This project is a **BDD (Behavior-Driven Development) test automation framework** for testing the **Health App** using **Appium**, **Cucumber**, and **JUnit**.  
+This project is a **BDD (Behavior-Driven Development) automation framework** for Mobile App testing on Android emulator using the **softonic Health Care Demo Apk** **Java**, **Appium**, **Cucumber**,**Android Studio**, and **JUnit**.  
 It supports **tag-based execution**, **report generation**, and can easily be integrated with CI/CD pipelines.
 
 ---
@@ -19,6 +16,4 @@ It supports **tag-based execution**, **report generation**, and can easily be in
 - **Allure / HTML Reports** (optional)
 
 ---
-
-## 📁 Project Structure
 
